@@ -5,7 +5,7 @@
 }
 
 .tm-header{
-    background: #211f17;
+    background: #ffffff;
     display: block;
     padding: 20px;
     
@@ -20,7 +20,7 @@
 
 .tm-nav{
    max-width: 90%;
-       border: 2px solid #3a382e;
+       border: 2px solid #ffffff;
     display: block;
   
     margin: 30px auto 5px auto;
